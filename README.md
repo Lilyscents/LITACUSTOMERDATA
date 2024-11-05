@@ -61,5 +61,5 @@ Based on my findings, I assume;
 * There is a high possibility that people in the Sount and West run business that require bulk data and the Basic data plan is not benefitial to them. A review in the benefits or advantages in terms of usage of the Basic data can make people in the South and West start buying more of Basic data.
 
 ### Conclusions
-In conclusion, this project has demonstrated the poweer of data analysis in uncovering valuable insight from customer data.
+In conclusion, this project has demonstrated the power of data analysis in uncovering valuable insight from customer data. The findings of this project have important implications for business growth and customer retention strategies. By leveraging these insights, businesses can optimize their marketing efforts, improve customer satisfaction, and drive revenue growth.
   
