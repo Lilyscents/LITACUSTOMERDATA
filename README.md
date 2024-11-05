@@ -16,7 +16,8 @@ Based on my previous learning while taking the Data Analysis course with the Inc
 
   ### Data Cleaning and Inspection
   I prepared the data for analysis by;
-  *  loading it handling missing values,
-  *  removing duplicates and Null Values in order to avoid inadecuacies and skewed results or findings.
+  *  Loading it
+  *  Handling missing values,
+  *  Removing duplicates and Null Values in order to avoid inadecuacies and skewed results or findings.
 
   ### Exploratory Data Analysis
