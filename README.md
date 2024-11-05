@@ -36,7 +36,30 @@ This part basically highlights some of the questions this project aims to answer
  - Top 5 Customers
  - Bottom 5 Customers
  - Most popular subscription type
+ - Most popular subscription type based on each region
  - Total number of customers from each region.
    ![Screenshot 2024-11-04 090149](https://github.com/user-attachments/assets/29d6c3e8-9f98-40fa-8359-a1a71f0cd3dd)
    ![Screenshot 2024-11-04 203747](https://github.com/user-attachments/assets/cd972e57-6a9e-4a93-9042-dc9f610d1be2)
 
+### Findings
+While carrying out the analysis, I made some of the findings below;
+* The East has the highest number of customers with 8,488 customers
+* The West has the lowest number of customers with 8,420 customers
+* The most popular subscription type by the number of customers is the Basic type
+* No customer canceled their subscription within 6 months
+* Cus1302 has the highest purchases with 23,070 as total purchases
+* Cus1302, Cus1431, Cus1005, Cus115, Cus1249 are the top 5 customers
+* Cus1029 has the lowest purchases with 14,350 as total purchases
+* Cus1268, Cus1383, Cus1159, Cus1235, Cus1029 are the bottom 5 customers
+* The people in the East and North buys only Basic data
+* The people in the South buys only Premium data
+* The people in the West buys only Standard data
+
+### Recommendations
+Based on my findings, I assume; 
+* Basic data is cheaper, hence the reason for its high sales and since it is only bought by those in the East and North, the organization can focus on selling basic data only in these regions and channel marketing strategies to raise awareness about the Basic data subscription type in other regions
+* There is a high possibility that people in the Sount and West run business that require bulk data and the Basic data plan is not benefitial to them. A review in the benefits or advantages in terms of usage of the Basic data can make people in the South and West start buying more of Basic data.
+
+### Conclusions
+In conclusion, this project has demonstrated the poweer of data analysis in uncovering valuable insight from customer data.
+  
